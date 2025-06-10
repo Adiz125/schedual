@@ -24,7 +24,7 @@ CREATE TABLE dbo.Schedule
 GO
 
 DECLARE @StartDate DATE = '20240101',
-        @EndDate   DATE = '20241231';
+        @EndDate   DATE = '20301231';
 
 ;WITH
 -- Dates 2024
